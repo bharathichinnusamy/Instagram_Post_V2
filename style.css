@@ -1,0 +1,67 @@
+body{
+    background-color:black
+}
+.mainDiv{
+    width:450px;
+    height:600px;
+    background-color: white;
+    margin:auto; 
+    margin-top: 50px; 
+}
+.header{
+    height:75px;
+}
+.header-logo{
+    font-size: 25px;
+    float: left;
+    padding-left: 20px;
+    padding-top:20px;
+}
+.header-title{
+float: left;
+line-height: 0px;
+padding-left: 10px;
+}
+.header-icon{
+    float: right;
+    font-size: 30px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+img{
+    height:300px;
+    width:450px;
+    }
+    .heartIcon{
+        font-size: 30px;
+        float:left;
+        padding-left: 15px;
+        padding-top: 10px;
+    }
+    .commendIcon{
+        font-size: 30px;
+        float: left;
+        padding-left: 10px;
+        padding-top: 10px;
+    }
+    .sendIcon{
+        font-size: 30px;
+        float: left;
+        padding-left: 10px;
+        padding-top: 10px;
+    }
+    .bookmarkIcon{
+        font-size: 30px;
+        float:right;
+        padding-right:30px;
+        padding-top: 10px;
+    }
+    .content1{
+        float: left;
+        padding-left: 10px;
+        height:30px;
+    }
+    .content2{
+        float: left;
+        padding-left: 10px;
+    }
